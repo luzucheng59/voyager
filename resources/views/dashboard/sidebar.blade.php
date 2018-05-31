@@ -15,7 +15,7 @@
                 </a>
             </div><!-- .navbar-header -->
 
-            <div class="panel widget center bgimage"
+            <!--div class="panel widget center bgimage"
                  style="background-image:url({{ Voyager::image( Voyager::setting('admin.bg_image'), voyager_asset('images/bg.jpg') ) }}); background-size: cover; background-position: 0px;">
                 <div class="dimmer"></div>
                 <div class="panel-content">
@@ -26,7 +26,7 @@
                     <a href="{{ route('voyager.profile') }}" class="btn btn-primary">{{ __('voyager::generic.profile') }}</a>
                     <div style="clear:both"></div>
                 </div>
-            </div>
+            </div-->
 
         </div>
 

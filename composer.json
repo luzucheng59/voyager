@@ -3,10 +3,10 @@
     "description": "A Laravel Admin Package for The Control Group to make your life easier and steer your project in the right direction",
     "keywords": ["laravel", "admin", "panel"],
     "license": "MIT",
-    "homepage": "https://the-control-group.github.io/voyager/",
+    "homepage": "https://github.com/luzucheng59/voyager",
     "support": {
-        "issues": "https://github.com/the-control-group/voyager/issues",
-        "source": "https://github.com/the-control-group/voyager"
+        "issues": "https://github.com/luzucheng59/voyager/issues",
+        "source": "https://github.com/luzucheng59/voyager"
     },
     "authors": [
         {
